@@ -15,6 +15,7 @@
 
 <h2>🤓 Coding Projects:</h2>
 
+- <b> HTML, CSS, JavaScript </b>
   - [Digital CV](https://github.com/fidell1998/Digital_CV)
   - [Pomodoro Timer](https://github.com/fidell1998/pomodoro_app)
   
