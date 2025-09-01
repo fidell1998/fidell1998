@@ -16,6 +16,7 @@
 <h2>🤓 Coding Projects:</h2>
 
   - [Digital CV](https://github.com/fidell1998/Digital_CV)
+  - [Pomodoro Timer](https://github.com/fidell1998/pomodoro_app)
   
 <h2>🤳 Connect with me:</h2>
 
