@@ -6,7 +6,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/fidell1998/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/fidell1998/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/fidell1998/ticket-lifecycle)
-- <b>Microsoft Azure - Currently Working on these projects </b>
+- <b>Microsoft Azure - **Currently Working on these projects** </b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/fidell1998/configure-ad)
   - [Network File Share and Permissions](https://github.com/fidell1998/azure-network-protocols)
 
